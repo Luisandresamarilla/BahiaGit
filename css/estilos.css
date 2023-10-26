@@ -1,0 +1,26 @@
+body {background-color: #DC4D18;
+      background-image: url(../imagenes/playa.jpg );
+      background-repeat: no-repeat;
+      background-position: 70% 30%;
+      background-attachment: fixed;
+}
+
+.subtituloazul {color: blue;}
+
+.colorrojo {color: red;}
+
+.conborde {  border:10px solid white;
+             padding: 10px;
+             margin-top: 40px;
+           }
+
+header {background-color: yellow;
+        width: 20%;
+        float: left;
+        border: 5% solid white;
+}
+
+section {background-color: green;
+          width: 30%;
+          float: left;
+}
